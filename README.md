@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhmohit14072002" alt="singhmohit14072002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Ajay__Patil_" target="blank"><img src="https://img.shields.io/twitter/follow/mohitdevops?logo=twitter&style=for-the-badge" alt="Ajay__Patil_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ajay__Patil_" target="blank"><img src="https://www.google.com/search?q=twitter+login+image+small+size&sxsrf=ALiCzsbPIOZPfOzldJlds1XdT9-FyVX8Gw:1669755318268&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjJue2ko9T7AhVdRmwGHaAlAmoQ_AUoAXoECAIQAw&biw=1463&bih=768&dpr=1.75#imgrc=4EHfk9WcP0DUDM" alt="Ajay__Patil_" /></a> </p>
 
 - 🔭 I’m currently working on **to learn Devops**
 
